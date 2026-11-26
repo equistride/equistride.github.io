@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "[invullen]",
+      "package_name": "com.stride.app",
       "sha256_cert_fingerprints": [
-        "[invullen]"
+        "79:3D:50:36:69:C3:E9:DF:2E:CD:7E:64:A7:62:BD:E6:37:20:ED:D9:BE:6E:54:DF:9D:D5:37:3B:56:3D:F3:43"
       ]
     }
   }
